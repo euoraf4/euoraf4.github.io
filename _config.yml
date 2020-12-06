@@ -178,7 +178,7 @@ fb_comment_id: "205037724528396"
 # --- Misc --- #
 
 # Ruby Date Format to show dates of posts
-date_format: "%-d %B de %Y"
+date_format: "%-d de %B de %Y"
 
 # Facebook App ID
 #fb_app_id: ""
